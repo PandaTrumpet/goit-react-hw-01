@@ -1,0 +1,6 @@
+.listItem {
+  border: 3px solid black;
+  border-radius: 8px;
+  width: 80px;
+  height: 120px;
+}

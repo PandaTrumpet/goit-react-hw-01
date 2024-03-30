@@ -1,0 +1,11 @@
+.main {
+  background-color: black;
+}
+
+.mainTitle {
+  color: blanchedalmond;
+  width: 150px;
+}
+.listItem:nth-child(even) {
+  background-color: lightgray;
+}
